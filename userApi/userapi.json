@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "team": "UNITED STATES",
+    "rank": "1",
+    "score": 400,
+    "image": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_usa"
+  },
+  {
+    "id": 2,
+    "team": "BRAZIL",
+    "score": 377,
+    "rank": "2",
+    "image": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_bra"
+  },
+  {
+    "id": 3,
+    "team": "CHINA",
+    "score": 345,
+    "rank": "3",
+    "image": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_chn"
+  },
+  {
+    "id": 4,
+    "team": "ITALY",
+    "score": 332,
+    "rank": "4",
+    "image": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_ita"
+  },
+  {
+    "id": 5,
+    "team": "THAILAND",
+    "score": 209,
+    "rank": "13",
+    "image": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_tha"
+  }
+]
